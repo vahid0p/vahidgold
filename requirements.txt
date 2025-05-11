@@ -1,0 +1,8 @@
+ccxt==4.2.85
+pandas==2.0.3
+ta==0.10.2
+python-telegram-bot==20.5
+mplfinance==0.12.10
+matplotlib==3.7.2
+numpy==1.24.3
+pytz==2023.3
